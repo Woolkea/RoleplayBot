@@ -1,0 +1,1 @@
+ALTER TABLE "admin_calls" ADD COLUMN "roblox_avatar_url" text;

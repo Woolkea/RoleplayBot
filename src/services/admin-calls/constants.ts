@@ -1,0 +1,5 @@
+export const ADMIN_CALL_CLAIM_XP_AMOUNT = 15;
+
+export const ADMIN_CALL_LOG_ACCENT_OPEN = 0xed4245;
+
+export const ADMIN_CALL_LOG_ACCENT_CLAIMED = 0x3ba55c;

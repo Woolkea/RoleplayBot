@@ -1,0 +1,2 @@
+ALTER TABLE "ingame_server_stats_state" ADD COLUMN "last_updated_at" timestamp with time zone;--> statement-breakpoint
+ALTER TABLE "ingame_server_stats_state" ADD COLUMN "last_updated_by_discord_user_id" text;

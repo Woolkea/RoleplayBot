@@ -1,0 +1,2 @@
+ALTER TABLE "dizzy_abuse_penalties" ALTER COLUMN "announcement_channel_id" DROP NOT NULL;--> statement-breakpoint
+ALTER TABLE "dizzy_abuse_penalties" ALTER COLUMN "announcement_message_id" DROP NOT NULL;
